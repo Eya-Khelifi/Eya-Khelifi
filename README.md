@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2thaGZuejN4N2kxc2ttNmRvYTc2c3JmOHZ1Y3V4cWQ4dmwyM2wybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"  />
 
 ###
@@ -66,7 +68,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 </div>
-
 
 ###
 
